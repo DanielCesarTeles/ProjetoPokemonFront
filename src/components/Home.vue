@@ -59,9 +59,6 @@ div{
   width: 25%;
 }
 #Conteudo2{
-  background-image: url("../assets/Eeve.png");
-  background-position: right;
-  background-repeat: no-repeat;
   height: 42%;
   width: 70%;
 }

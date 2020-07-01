@@ -108,9 +108,6 @@ section{
 #Conteudo2{
   background-color: #000000;
   color: #ffffff;
-  background-image: url("../assets/FundoFormulario.gif");
-  background-repeat: no-repeat;
-  background-position: right;
   border-radius: 25px;
   margin-top: 2.5%;
   padding: 3%;

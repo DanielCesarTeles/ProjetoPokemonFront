@@ -136,13 +136,8 @@ section{
   height: 150%;
   width: 100%;
   padding: 1%;
-  background-image:url("../assets/Fundo.png");
 }
 #Conteudo1{
-  background-image: url("../assets/Pikachu.png");
-  background-repeat: no-repeat;
-  background-position: bottom;
-  background-size: 80%;
   background-color: #000000;
   color: #ffffff;
   border-color: #000000;
@@ -161,9 +156,6 @@ section{
   background-color:#000000;
   border-color: #000000;
   color: #ffffff;
-  background-image: url("../assets/Togepi.png");
-  background-repeat: no-repeat;
-  background-position: right;
   border-radius: 25px;
   margin-top: 2.5%;
   padding: 3%;

@@ -25,7 +25,6 @@ section{
   height: 100%;
   width: 100%;
   padding: 1%;
-  background-image:url("../assets/Fundo.png");
 }
 div{
   background-color:#000000;
@@ -42,10 +41,6 @@ div{
   width: 25%;
 }
 #Conteudo2{
-  /* background-image: url("../assets/FundoFormulario.jpg"); */
-  background-repeat: no-repeat;
-  background-position: left;
-  background-size: 50%;
   height: 42%;
   width: 70%;
 }

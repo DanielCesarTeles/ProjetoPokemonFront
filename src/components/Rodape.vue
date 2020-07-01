@@ -2,7 +2,7 @@
 
   <footer id="Rodape">
     <div>
-      <img id="LogoMenu" src="../assets/PokebolaMenu.png">
+      <img id="LogoMenu">
     </div>
     <div id="Contato">
       <ul>

@@ -2,7 +2,7 @@
   <div id="Menu">
     <nav>
       <div>
-        <img id="LogoMenu" src="../assets/PokebolaMenu.png">
+        <img id="LogoMenu">
       </div>
       <div id="Links">
         <a href="/home">Home</a>
