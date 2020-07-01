@@ -42,7 +42,6 @@ section{
   height: 100%;
   width: 100%;
   padding: 1%;
-  background-image:url("../assets/Fundo.png");
 }
 div{
   background-color:#000000;

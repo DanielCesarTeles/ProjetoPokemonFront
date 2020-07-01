@@ -91,7 +91,6 @@ section{
   height: 100%;
   width: 100%;
   padding: 1%;
-  background-image:url("../assets/Fundo.png");
 }
 #Conteudo1{
   background-color: #000000;
